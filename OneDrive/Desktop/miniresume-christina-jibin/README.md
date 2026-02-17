@@ -21,8 +21,8 @@ POST /candidate
 
 {
   "name": "Christina Jibin",
-  "email": "christina@gmail.com",
-  "phone": "9876543210",
+  "email": "christinajibin274@gmail.com",
+  "phone": "8714512078",
   "skills": ["Python", "FastAPI"]
 }
 
